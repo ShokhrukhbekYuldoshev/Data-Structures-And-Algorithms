@@ -4,8 +4,6 @@
 # https://leetcode.com/problems/product-of-array-except-self/
 # https://leetcode.com/problems/subarray-sum-equals-k/
 
-# Visit www.neon.rip for more content!
-
 class PrefixSum:
 
     def __init__(self, nums):

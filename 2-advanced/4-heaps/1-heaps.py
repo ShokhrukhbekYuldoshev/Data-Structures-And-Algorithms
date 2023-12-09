@@ -2,8 +2,6 @@
 # https://leetcode.com/problems/sliding-window-median/
 # https://leetcode.com/problems/ipo/
 
-# Visit www.neon.rip for more content!
-
 import heapq
 
 class Median:

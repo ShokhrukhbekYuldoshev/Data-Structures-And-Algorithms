@@ -2,8 +2,6 @@
 # https://leetcode.com/problems/binary-tree-preorder-traversal/
 # https://leetcode.com/problems/binary-tree-postorder-traversal/
 
-# Visit www.neon.rip for more content!
-
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val, left, right):
